@@ -1,12 +1,13 @@
 <br clear="both">
-
-<div align="center">
-  <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"  />
-</div>
-
 ###
 
-<h1 align="center">Привет👋 Меня зовут Алексей!</h1>
+<h1 align="center">Welcome to Petr's page!</h1>
+
+<div align="center">
+  <img height="150" width="400" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"  />
+</div>
+
+
 
 ###
 
