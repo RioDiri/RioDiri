@@ -1,5 +1,4 @@
 <br clear="both">
-###
 
 <h1 align="center">Welcome to Petr's page!</h1>
 
