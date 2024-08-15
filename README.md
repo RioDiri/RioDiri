@@ -3,7 +3,7 @@
 <h1 align="center">Welcome to Petr's page!</h1>
 
 <div align="center">
-  <img height="150" width="400" src="https://github.com/RioDiri/DB/blob/main/Trending%20topics%20on%20Tumblr.gif"  />
+  <img height="200" width="500" src="https://github.com/RioDiri/DB/blob/main/Trending%20topics%20on%20Tumblr.gif"  />
 </div>
 
 
