@@ -4,7 +4,7 @@
 
 <div align="center">
 <div style="border-radius: 50%; overflow: hidden; width: fit-content;">
-  <img src="https://github.com/RioDiri/DB/blob/main/Trending%20topics%20on%20Tumblr.gif" alt="Rounded GIF" width="200">
+  <img src="https://github.com/RioDiri/DB/blob/main/Trending%20topics%20on%20Tumblr.gif" alt="Rounded GIF" width="600">
 </div>
 
 
