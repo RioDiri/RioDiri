@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  <img src="https://github.com/RioDiri/DB/blob/main/Trending%20topics%20on%20Tumblr.gif">
+  <img height="300" width="600" src="https://github.com/RioDiri/DB/blob/main/Trending%20topics%20on%20Tumblr.gif">
 </div>
 
 
