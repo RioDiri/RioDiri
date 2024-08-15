@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  <img src="https://github.com/RioDiri/DB/blob/main/Trending%20topics%20on%20Tumblr.gif" alt="Rounded GIF" width="600" style="border-radius: 50%; display: block;">
+  <img src="https://github.com/RioDiri/DB/blob/main/Trending%20topics%20on%20Tumblr.gif" alt="Rounded GIF" width="600" style="border-radius: 50px; display: block;">
 </div>
 
 
